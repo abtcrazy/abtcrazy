@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m @abtcrazy (actually, Aleksandr)
-👀 I’m interested in Data Analysis
-🌱 I’m currently learning basic skills of working and visualisations with data
-📫 You can reach me on Telegram: @Talipov_Alex
+👋 Hi, I’m @abtcrazy (actually, Aleksandr)  
+👀 I’m interested in Data Analysis  
+🌱 I’m currently learning basic skills of working and visualisations with data  
+📫 You can reach me on Telegram: @Talipov_Alex  
