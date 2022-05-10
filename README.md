@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 * [Telegram](https://t.me/Talipov_Aleksandr)
 * [Email](mailto:talipovalex@yandex.ru)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abtcrazy&hide=shell,powershell,batchfile)](https://github.com/abtcrazy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abtcrazy&hide=shell,powershell,batchfile&langs_count=3)](https://github.com/abtcrazy/github-readme-stats)
