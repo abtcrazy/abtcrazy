@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abtcrazy&repo=education_roadmap)](https://github.com/abtcrazy/education_roadmap)
 ### Навыки
-* Data engineering (SQL, Pentaho DI)
+* Data engineering (SQL, PostgreSQL, Pentaho DI)
 * BI (Tableau, DataLens)
-* Python (pandas, NumPy, Matplotlib, Seaborn, Plotly)
+* Python (pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook)
 ### Контакты
 * [Telegram](https://t.me/Talipov_Aleksandr)
 * [Email](mailto:talipovalex@yandex.ru)
