@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abtcrazy&repo=education_roadmap)](https://github.com/abtcrazy/education_roadmap)
 ### Навыки
-* Data engineering (SQL, PostgreSQL, Pentaho DI)
+* Data engineering (SQL, PostgreSQL, MS SQL, Pentaho DI)
 * BI (Tableau, DataLens)
 * Python (pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook)
 ### Контакты
