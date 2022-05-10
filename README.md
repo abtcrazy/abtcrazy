@@ -29,5 +29,3 @@ Here are some ideas to get you started:
 ### Контакты
 * [Telegram](https://t.me/Talipov_Aleksandr)
 * [Email](mailto:talipovalex@yandex.ru)
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
