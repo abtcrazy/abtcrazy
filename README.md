@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 * [Telegram](https://t.me/Talipov_Aleksandr)
 * [Email](mailto:talipovalex@yandex.ru)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light?type=vertical)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
