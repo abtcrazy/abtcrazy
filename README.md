@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 В репозитории ниже предствлен мой образовательный путь:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abtcrazy&repo=education_roadmap&show_owner)](https://github.com/abtcrazy/education_roadmap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abtcrazy&repo=education_roadmap&show_owner=true)](https://github.com/abtcrazy/education_roadmap)
 ### Навыки
 * Data engineering (SQL, PostgreSQL, MS SQL, Pentaho DI)
 * BI (Tableau, DataLens)
