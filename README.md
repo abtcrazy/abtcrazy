@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 ### Контакты
 * [Telegram](https://t.me/Talipov_Aleksandr)
 * [Email](mailto:talipovalex@yandex.ru)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abtcrazy&hide=shell,powershell,batchfile)](https://github.com/abtcrazy/github-readme-stats)
