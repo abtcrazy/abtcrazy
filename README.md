@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning basic skills of working and visualisations with data  
 📫 You can reach me on Telegram: @Talipov_Alex  
 -->
-## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 Меня зовут Александр, сейчас я изучаю базовые навыки работы с данными. Стремлюсь связать свою профессиональную деятельность с такими направлениями как Data analysis/BI/Data engineering.
 
 В репозитории ниже предствлен мой образовательный путь:
