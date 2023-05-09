@@ -30,3 +30,4 @@ Here are some ideas to get you started:
 ### Контакты
 * [Telegram](https://t.me/Talipov_Aleksandr)
 * [Email](mailto:talipovalex@yandex.ru)
+* [LinkedIn](https://www.linkedin.com/in/talipov-aleksandr)
